@@ -1,0 +1,14 @@
+C:\Users\sirma\Desktop\C#\Excersice_Man_Without-Fingers\bin\Debug\net6.0\Excersice_Man_Without-Fingers.exe
+C:\Users\sirma\Desktop\C#\Excersice_Man_Without-Fingers\bin\Debug\net6.0\Excersice_Man_Without-Fingers.deps.json
+C:\Users\sirma\Desktop\C#\Excersice_Man_Without-Fingers\bin\Debug\net6.0\Excersice_Man_Without-Fingers.runtimeconfig.json
+C:\Users\sirma\Desktop\C#\Excersice_Man_Without-Fingers\bin\Debug\net6.0\Excersice_Man_Without-Fingers.dll
+C:\Users\sirma\Desktop\C#\Excersice_Man_Without-Fingers\bin\Debug\net6.0\Excersice_Man_Without-Fingers.pdb
+C:\Users\sirma\Desktop\C#\Excersice_Man_Without-Fingers\obj\Debug\net6.0\Excersice_Man_Without-Fingers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sirma\Desktop\C#\Excersice_Man_Without-Fingers\obj\Debug\net6.0\Excersice_Man_Without-Fingers.AssemblyInfoInputs.cache
+C:\Users\sirma\Desktop\C#\Excersice_Man_Without-Fingers\obj\Debug\net6.0\Excersice_Man_Without-Fingers.AssemblyInfo.cs
+C:\Users\sirma\Desktop\C#\Excersice_Man_Without-Fingers\obj\Debug\net6.0\Excersice_Man_Without-Fingers.csproj.CoreCompileInputs.cache
+C:\Users\sirma\Desktop\C#\Excersice_Man_Without-Fingers\obj\Debug\net6.0\Excersice_Man_Without-Fingers.dll
+C:\Users\sirma\Desktop\C#\Excersice_Man_Without-Fingers\obj\Debug\net6.0\refint\Excersice_Man_Without-Fingers.dll
+C:\Users\sirma\Desktop\C#\Excersice_Man_Without-Fingers\obj\Debug\net6.0\Excersice_Man_Without-Fingers.pdb
+C:\Users\sirma\Desktop\C#\Excersice_Man_Without-Fingers\obj\Debug\net6.0\Excersice_Man_Without-Fingers.genruntimeconfig.cache
+C:\Users\sirma\Desktop\C#\Excersice_Man_Without-Fingers\obj\Debug\net6.0\ref\Excersice_Man_Without-Fingers.dll
